@@ -29,9 +29,6 @@ Press e to erase (clear the canvas).
 
 Press ESC to exit.
 
--> Demo
-(Add a GIF or screenshot of the application running here)
-
 ⚙️ Requirements
 Python 3.x
 
