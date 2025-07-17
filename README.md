@@ -1,7 +1,7 @@
 # Virtual-Drawing-using-Open-CV
 This project implements a virtual drawing application using a webcam and Optical Flow (Lucas-Kanade method) with OpenCV in Python. The program tracks a selected point on the video feed and allows users to draw virtually in the air.
 
-✅ Features
+-> Features
 Real-time point tracking using cv2.calcOpticalFlowPyrLK.
 
 Virtual drawing on the camera feed.
