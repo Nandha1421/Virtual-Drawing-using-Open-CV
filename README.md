@@ -44,20 +44,7 @@ bash
 Copy
 Edit
 pip install opencv-python numpy
--> How to Run
-Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/virtual-drawing-opencv.git
-cd virtual-drawing-opencv
-Run the script:
-
-bash
-Copy
-Edit
-python virtual_drawing.py
 -> Controls
 Key	Action
 Left Click	Select starting point
