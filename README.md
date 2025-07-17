@@ -29,7 +29,7 @@ Press e to erase (clear the canvas).
 
 Press ESC to exit.
 
-⚙️ Requirements
+-> Requirements
 Python 3.x
 
 OpenCV
@@ -42,12 +42,28 @@ Copy
 Edit
 pip install opencv-python numpy
 
+-> How to Run
+
+Clone the repository:
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/virtual-drawing-opencv.git
+cd virtual-drawing-opencv
+
+Run the script:
+bash
+Copy
+Edit
+python virtual_drawing.py
+
+
 -> Controls
 Key	Action
-Left Click	Select starting point
-c	Change color (RGB cycle)
-e	Erase/Clear canvas
-ESC	Exit program
+Left   -    Click	Select starting point
+c	     -    Change color (RGB cycle)
+e	     -    Erase/Clear canvas
+ESC	   -    Exit program
 
 ->  Project Structure
 csharp
